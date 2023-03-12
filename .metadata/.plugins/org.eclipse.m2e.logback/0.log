@@ -317,3 +317,36 @@
 2023-03-12 15:54:58,606 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-03-12 15:54:58,714 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-03-12 15:54:58,761 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Masse\OneDrive\Documents\JavaEE\blog\blog\src\test\resources
+2023-03-12 16:17:20,683 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-12 16:17:20,693 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-12 16:17:20,696 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Masse\OneDrive\Documents\JavaEE\blog\blog\src\test\resources
+2023-03-12 16:19:58,550 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-12 16:19:58,585 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-12 16:19:58,590 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Masse\OneDrive\Documents\JavaEE\blog\blog\src\test\resources
+2023-03-12 16:19:59,662 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-12 16:19:59,671 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-12 16:19:59,673 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Masse\OneDrive\Documents\JavaEE\blog\blog\src\test\resources
+2023-03-12 16:20:11,282 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-12 16:20:11,291 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-12 16:20:11,295 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Masse\OneDrive\Documents\JavaEE\blog\blog\src\test\resources
+2023-03-12 16:34:03,878 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-12 16:34:03,884 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-12 16:34:03,888 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Masse\OneDrive\Documents\JavaEE\blog\blog\src\test\resources
+2023-03-12 17:28:02,904 [Worker-101: Launching blog - BlogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-12 17:28:02,984 [Worker-101: Launching blog - BlogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-12 17:28:02,991 [Worker-101: Launching blog - BlogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Masse\OneDrive\Documents\JavaEE\blog\blog\src\test\resources
+2023-03-12 17:28:03,263 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-12 17:28:03,294 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-12 17:28:03,298 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Masse\OneDrive\Documents\JavaEE\blog\blog\src\test\resources
+2023-03-12 17:39:19,383 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-12 17:39:19,391 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-12 17:39:19,395 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Masse\OneDrive\Documents\JavaEE\blog\blog\src\test\resources
+2023-03-12 17:39:20,462 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-12 17:39:20,469 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-12 17:39:20,472 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Masse\OneDrive\Documents\JavaEE\blog\blog\src\test\resources
+2023-03-12 17:54:22,557 [Worker-105: Launching blog - BlogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-12 17:54:22,569 [Worker-105: Launching blog - BlogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-12 17:54:22,572 [Worker-105: Launching blog - BlogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Masse\OneDrive\Documents\JavaEE\blog\blog\src\test\resources
+2023-03-12 17:57:12,497 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-12 17:57:12,503 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-12 17:57:12,507 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Masse\OneDrive\Documents\JavaEE\blog\blog\src\test\resources
