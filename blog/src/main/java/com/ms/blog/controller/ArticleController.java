@@ -1,4 +1,4 @@
-package com.ms.controller;
+package com.ms.blog.controller;
 
 public class ArticleController {
 

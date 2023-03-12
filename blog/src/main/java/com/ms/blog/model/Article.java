@@ -1,4 +1,4 @@
-package com.ms.model;
+package com.ms.blog.model;
 
 import java.sql.Date;
 
