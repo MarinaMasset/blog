@@ -3,6 +3,8 @@ package com.ms.blog.model;
 import java.util.Date;
 import java.util.List;
 
+import com.fasterxml.jackson.annotation.JsonManagedReference;
+
 import jakarta.persistence.*;
 
 @Entity
@@ -31,8 +33,16 @@ public class Article {
 	@Column(name = "picture")
 	private String picture;
 	
-	@OneToMany(mappedBy = "article")
+	@OneToMany(mappedBy = "article", fetch = FetchType.EAGER)
+	// TODO ajouter si StackOverflowError
+//	@JsonManagedReference
 	private List<Comment> comments;
+
+	@Override
+	public String toString() {
+		return "Article [id=" + id + ", title=" + title + ", content=" + content + ", date=" + date + ", type=" + type
+				+ ", author=" + author + ", picture=" + picture + ", nb of comments=" + comments.size() + "]";
+	}
 
 	public int getId() {
 		return id;

@@ -2,6 +2,8 @@ package com.ms.blog.model;
 
 import java.util.Date;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
+
 import jakarta.persistence.*;
 
 @Entity
@@ -18,9 +20,17 @@ public class Comment {
 	
 	private String username;
 	
-	@ManyToOne
+	@ManyToOne(fetch = FetchType.EAGER, cascade = CascadeType.ALL)
 	@JoinColumn(name = "post_id", nullable = false)
+	// TODO ajouter si StackOverflowError
+//	@JsonBackReference
 	private Article article;
+
+	@Override
+	public String toString() {
+		return "Comment [id=" + id + ", date=" + date + ", comment=" + comment + ", username=" + username + ", article="
+				+ article + "]";
+	}
 
 	public int getId() {
 		return id;
